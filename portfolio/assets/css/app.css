@@ -113,7 +113,7 @@ body {
   width: 100%;
   background-size: cover;
   scrollbar-width: thin;
-  scrollbar-color: hsla(0, 0%, 100%, 0.15) #44c4cf;
+
 }
 
 body::-webkit-scrollbar {

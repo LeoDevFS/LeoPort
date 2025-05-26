@@ -1,6 +1,6 @@
 # Web Portfolio
 
-This project is a personal web portfolio designed to showcase skills, projects, and experiences. It serves as a digital resume and a platform to highlight work in web development, particularly in Flutter.
+This project is a personal web portfolio designed to showcase skills, projects, and experiences. It serves as a digital resume and a platform to highlight work in web development.
 
 ## Project Structure
 
@@ -17,19 +17,10 @@ The project consists of the following files and directories:
   - **images/**: Directory for images used in the portfolio.
   - **skills/**: Directory for skill-related assets.
   - **projects/**: Directory for project-related assets.
-  - **blogs/**: Directory for blog-related assets.
+  - **sandbox/**: Directory for test,exams,curiosity assets.
   - **cv/**: Directory for CV-related assets.
 
-## Setup Instructions
 
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in a web browser to view the portfolio.
-3. Modify the CSS and JavaScript files in the `assets` directory to customize the design and functionality as needed.
 
-## Usage
 
-This portfolio can be used to showcase your work, skills, and experiences to potential employers or clients. Feel free to modify the content to reflect your personal information and projects.
 
-## License
-
-This project is open-source and available for anyone to use and modify.
