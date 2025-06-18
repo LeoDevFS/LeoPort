@@ -135,6 +135,11 @@ body::-webkit-scrollbar-button {
   height: 60px;
 }
 
+body .creatingImg{
+  position: relative;
+ top: -70px;
+}
+
 /*-----------------------------------*\
   #REUSED STYLES
 \*-----------------------------------*/
